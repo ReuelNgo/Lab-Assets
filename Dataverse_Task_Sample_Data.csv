@@ -1,0 +1,11 @@
+Task ID,Category,Subject,Location,Due Date,Assigned To,Status,Priority,Created Date
+TSK-1001,General Safety,Install non-slip mats in high-traffic areas.,W-1041,18/7/2024,Reuel,Pending,High,1/7/2024
+TSK-1002,Fire Safety,Inspect and maintain fire doors and exits.,W-1011,18/7/2024,Reuel,In Progress,Medium,2/7/2024
+TSK-1003,Ward Inspection,Review and update safety protocols for the ward.,W-1017,20/7/2024,Reuel,Pending,High,3/7/2024
+TSK-1004,Electrical Safety,Test and maintain emergency lighting systems.,SR-127,21/7/2024,Reuel,In Progress,High,4/7/2024
+TSK-1005,General Safety,Install additional hand sanitizing stations.,W-1026,22/7/2024,Reuel,Pending,Low,5/7/2024
+TSK-1006,Electrical Safety,Secure loose electrical wiring in the ward.,W-1002,23/7/2024,Reuel,Pending,Medium,6/7/2024
+TSK-1007,Ward Inspection,Check evacuation signage visibility and accuracy.,W-1053,23/7/2024,Reuel,Pending,High,7/7/2024
+TSK-1008,Fire Safety,Conduct extinguisher pressure checks in common areas.,W-1044,24/7/2024,Reuel,Pending,High,8/7/2024
+TSK-1009,Electrical Safety,Replace faulty sockets in staff lounge.,SR-115,24/7/2024,Reuel,In Progress,Low,9/7/2024
+TSK-1010,General Safety,Evaluate clutter-prone areas for tripping hazards.,W-1061,25/7/2024,Reuel,Pending,Medium,10/7/2024
